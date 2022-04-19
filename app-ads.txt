@@ -1,0 +1,5 @@
+# App-ads.txt
+#
+Meta
+#
+facebook.com, 349369433827950,RESELLER, c3e20eee3f780d68
